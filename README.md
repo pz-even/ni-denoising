@@ -1,14 +1,14 @@
-# Neuromorphic Imaging with Density-Based Spatiotemporal Denoising
-Code of "Neuromorphic Imaging with Density-Based Spatiotemporal Denoising"
-This repo provides the code of
+# Overview
+This repo provides the code of [Neuromorphic Imaging with Density-Based Spatiotemporal Denoising](https://doi.org/10.1109/TCI.2023.3281202).
 ```
-@article{zhang2024neuromorphic,
-  title    =  {Neuromorphic imaging and classification with graph learning},
-  author   =  {Pei Zhang and Chutian Wang and Edmund Y. Lam},
-  journal  =  {Neurocomputing},
-  volume   =  {565},
-  pages    =  {127010(1--9)},
-  year     =  {2024},
-  doi      =  {https://doi.org/10.1016/j.neucom.2023.127010},
+@article{zhang2023neuromorphic,
+  title={Neuromorphic Imaging with Density-Based Spatiotemporal Denoising},
+  author={Zhang, Pei and Ge, Zhou and Song, Li and Lam, Edmund Y.},
+  journal={IEEE Transactions on Computational Imaging},
+  volume={9},
+  pages={530--541},
+  month={May},
+  year={2023},
+  doi={10.1109/TCI.2023.3281202}
 }
 ```
