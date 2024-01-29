@@ -16,4 +16,5 @@ This repo provides the code of [Neuromorphic Imaging with Density-Based Spatiote
 ## Sample
 Download our [samples](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3008016_connect_hku_hk/EU1CVbq4zE5Jozh1YR7ZHNUBQIVZ9yjG9xZNfmRSyCvuxA) for verification and further research (password: <ins>zhang2023neuromorphic</ins>).
 
-## Result
+## Usage
+- [x] Code will be released in the near future. Stay tuned for updates!
