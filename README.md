@@ -3,7 +3,7 @@ This repo provides the code of [Neuromorphic Imaging with Density-Based Spatiote
 ```
 @article{zhang2023neuromorphic,
   title    =  {Neuromorphic Imaging with Density-Based Spatiotemporal Denoising},
-  author   =  {Zhang, Pei and Ge, Zhou and Song, Li and Lam, Edmund Y.},
+  author   =  {Pei Zhang and Zhou Ge and Li Song and Edmund Y. Lam},
   journal  =  {IEEE Transactions on Computational Imaging},
   volume   =  {9},
   pages    =  {530--541},
