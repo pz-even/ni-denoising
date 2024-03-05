@@ -8,8 +8,7 @@ This repo provides the code of [Neuromorphic Imaging with Density-Based Spatiote
   volume   =  {9},
   pages    =  {530--541},
   month    =  {May},
-  year     =  {2023},
-  doi      =  {10.1109/TCI.2023.3281202}
+  year     =  {2023}
 }
 ```
 ![Demo](./imgs/demo.gif)
