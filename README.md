@@ -1,7 +1,7 @@
 # Overview
 This repo provides the code of [Neuromorphic Imaging with Density-Based Spatiotemporal Denoising](https://doi.org/10.1109/TCI.2023.3281202).
 ```
-@article{zhang2023neuromorphic,
+@article{zhang2023tci,
   title    =  {Neuromorphic Imaging with Density-Based Spatiotemporal Denoising},
   author   =  {Pei Zhang and Zhou Ge and Li Song and Edmund Y. Lam},
   journal  =  {IEEE Transactions on Computational Imaging},
