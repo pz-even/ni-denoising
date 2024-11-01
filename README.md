@@ -13,8 +13,6 @@ This repo provides the code of [Neuromorphic Imaging with Density-Based Spatiote
 }
 ```
 ![Demo](./imgs/demo.gif)
-
-More neuromorphic imaging projects in [HKU Imaging Systems Laboratory](https://www.eee.hku.hk/~elam/research/pub-uf.html).
 ## Sample
 Download our [samples](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3008016_connect_hku_hk/EU1CVbq4zE5Jozh1YR7ZHNUBQIVZ9yjG9xZNfmRSyCvuxA) for verification and further research (password: `zhang2023neuromorphic`).
 
